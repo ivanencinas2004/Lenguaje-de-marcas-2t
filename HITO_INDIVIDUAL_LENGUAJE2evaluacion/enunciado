@@ -1,0 +1,30 @@
+Fase 1.
+
+Desarrolla un documento XML que contenga la siguiente información de los pedidos de los clientes de
+tu web: nombre, apellidos, teléfono, dirección (calle, ciudad, código postal, provincia), correo
+electrónico, fecha de inclusión, pedidos (dentro de cada pedido irá el detalle del número de pedido, la
+fecha de compra, fecha de entrega, total de la factura y de cada producto: nombre de producto,
+referencia, precio, unidades). La información estará ordenada por años y por trimestres, debes incluir
+la información de los dos últimos años (2021 y 2022) y en cada trimestre un mínimo de 10 pedidos. De
+cada 10 pedidos 5 deben pertenecer a clientes recurrentes. Los pedidos deben estar basados en
+productos reales de una tienda online real.
+
+
+
+
+Fase 2.
+
+Genera un proyecto HTML, vincula el archivo XML con la información estructurada de tu
+ecommerce desarrollado en la fase 1 y resuelve las siguientes cuestiones:
+• A partir de un documento XML, mostrad la información de cada pedido en una tabla. • A
+partir de un documento XML, mostrad la información de cada cliente en una tabla. • Crea una
+factura de un cliente que compra un producto a partir de la información de tu XML.
+• A partir de vuestro documento XML, debéis mostrar los productos vendidos en el primer trimestre
+de 2020 y en el último de 2021. Debéis dar un estilo css a cada una de las tablas incluyendo:
+color, tipografía, tamaño de texto, background, posicionamiento....
+
+
+
+Fase 3.
+
+Para finalizar, validaremos nuestro documento XML.
